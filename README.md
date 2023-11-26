@@ -3,6 +3,10 @@ Django application that performs SAST and Malware Analysis for Android APKs
 
 ![image](https://github.com/HackWithSumit/MobileAudit-SAST-Android/assets/120317751/8586260f-7565-446b-81b7-3ab476480d5f)
 
+
+![image](https://github.com/HackWithSumit/MobileAudit-SAST-Android/assets/120317751/be6ad9ea-d759-4d90-9f0a-97287a51f0f1)
+
+
 <b><h3>Installation</h3>
 
 <b>Using Docker-compose:</b>
