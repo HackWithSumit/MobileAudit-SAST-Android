@@ -29,12 +29,12 @@ Now install requirements files:
 
 The provided `docker-compose.yml` file allows you to run the app locally in development.
 
-      docker-compose build
+      sudo docker-compose build
 
       
 Then, to start the container, run:    
 
-       docker-compose up
+       sudo docker-compose up
 
  Optional: run in detached mode (not see the logs)
 
